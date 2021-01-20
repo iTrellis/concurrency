@@ -1,12 +1,12 @@
 # concurrency
 go concurrency library 
 
-* [![GoDoc](http://godoc.org/github.com/iTrellis/go-concurrency?status.svg)](http://godoc.org/github.com/iTrellis/go-concurrency)
+* [![GoDoc](http://godoc.org/github.com/iTrellis/concurrency?status.svg)](http://godoc.org/github.com/iTrellis/concurrency)
 
 ## Installation
 
 ```golang
-go get -u github.com/iTrellis/go-concurrency
+go get -u github.com/iTrellis/concurrency
 ```
 
 ## Usage

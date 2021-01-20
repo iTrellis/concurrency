@@ -4,7 +4,7 @@
 package concurrency
 
 import (
-	"github.com/iTrellis/go-common/data-structures/stack"
+	"github.com/iTrellis/common/data-structures/stack"
 )
 
 // RunnerStack runner stack

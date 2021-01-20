@@ -1,2 +1,2 @@
-# github.com/iTrellis/go-common v0.21.0
-github.com/iTrellis/go-common/data-structures/stack
+# github.com/iTrellis/common v0.20.0
+github.com/iTrellis/common/data-structures/stack
